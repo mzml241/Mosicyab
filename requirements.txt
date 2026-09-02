@@ -1,0 +1,5 @@
+aiogram>=3.31
+shazamio>=0.8.1
+yt-dlp
+audioop-lts; python_version >= "3.13"
+aiofiles
